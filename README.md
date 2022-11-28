@@ -21,11 +21,18 @@ and learn new parts of data
 
 <h3><b><span style="color:navy">E-mail :- </span><a href='mina.markos6565@gmail.com'><b>Click HERE</b></a> </b></h3>  
 
+
+
 ## skills 👀
 
 <center>
 <img align="left" width="100" height="100" src="Python.svg.png">
-<img align="left" width="100" height="100" src="https://medium.com/@ashiqgiga07/working-with-mysql-dae8f149aa57">
+<img align="left" width="150" height="75" src="mysql.jpeg">
+<img align="left" width="150" height="75" src="sqllite.png">
+<img align="left" width="150" height="75" src="powerpi.png">
+<img align="left" width="150" height="75" src="pandas.png">
+<img align="left" width="150" height="100" src="numpy.png">
+
 </center>
 
 
