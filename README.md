@@ -26,14 +26,13 @@ and learn new parts of data
 ## skills 👀
 
 <center>
-<img align="left" width="75" height="75" src="Python.svg.png">
-<img align="left" width="145" height="75" src="mysql.jpeg">
-<img align="left" width="140" height="75" src="powerpi.png">
-<img align="left" width="130" height="75" src="pandas.png">
-<img align="left" width="120" height="100" src="numpy.png">
+<img align="left" width="40" height="40" src="Python.svg.png">
+<img align="left" width="70" height="40" src="mysql.jpeg">
+<img align="left" width="70" height="40" src="powerpi.png">
+<img align="left" width="70" height="40" src="pandas.png">
+<img align="left" width="70" height="50" src="numpy.png">
 
 </center>
 
 
- 
- 
+
