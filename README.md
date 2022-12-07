@@ -3,7 +3,7 @@
 ## About 
 
 
-I am a junior data Analyst who is 
+I am a data Analyst who is 
 passionate about data science and 
 machine learning. I'm a 
 self-motivated, self-learning 
@@ -14,6 +14,10 @@ situations. I'm looking forward to
 it.I want to work for a company 
 that will help me grow my talents 
 and learn new parts of data 
+
+
+
+
 
 ## Connect with me 📫:
 
