@@ -3,7 +3,7 @@
 ## About 
 
 
-I am a data Analyst who is 
+I am a data Scientist who is 
 passionate about data science and 
 machine learning. I'm a 
 self-motivated, self-learning 
