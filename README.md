@@ -35,8 +35,8 @@ and learn new parts of data
 <img align="left" width="30" height="40" src="powerpi.png">
 <img align="left" width="30" height="50" src="pandas.png">
 <img align="left" width="50 height="50" src="numpy.png">
-<img align="left" width="50 height="50" src="numpy.png">
-<img align="left" width="50 height="50" src="numpy.png">
+<img align="left" width="50 height="50" src="plotly.png">
+<img align="left" width="90 height="90" src="sklearn.png">
 
 </center>
 
