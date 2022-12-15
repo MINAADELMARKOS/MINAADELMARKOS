@@ -18,7 +18,7 @@ and learn new parts of data
 
 ## 📩 Connect with me
 <p align="center">
- <a href="mina.markos6565@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="Mina:mina.markos6565@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mon.adel.5" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mina-markos-343b8b171/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
