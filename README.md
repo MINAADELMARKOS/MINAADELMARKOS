@@ -1,27 +1,57 @@
-# **Hi, I'm Mina Adel Markos 👋**
+<h1 align="center">Hi, I'm Mina Adel Markos 👋</h1>
 
-## About 
+<h3 align="center">I am a junior data scientist and data
+analyst who is passionate about data
+science and machine learning. i can
+extract meaningful insights by use the
+existing information to improve
+bessuiness and uncover the actionble
+data as well as can make predicting with
+machine learning alogorithms ways to
+make actionable improvrments and solve
+problems</h3>
 
 
-I am a data Scientist who is 
-passionate about data science and 
-machine learning. I'm a 
-self-motivated, self-learning 
-individual with strong 
-communication skills and the 
-capacity to adapt rapidly to new 
-situations. I'm looking forward to 
-it.I want to work for a company 
-that will help me grow my talents 
-and learn new parts of data 
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<br>
+
+## EDUCATION 
+
+-  Bachelor's Degree of Engineering (2021) -- Alexandria University, Egypt
+-  Certified Data Scientist Professional Training Progra 9 Months Programg -- EPSILON AI Institute
+-  IBM Data Science Professional Certificate 2022 -- Coursera 
+
+## EXPERIENCE 
+
+<h3>Data Analyst at Epsilon Ai -- Internship </h3>
+
+-  Clean, prepare, organize and facilitate access to different types of datasets.
+-  Extract data from multiple sources.
+-  Use of Machine Learning techniques: Regression, Classificationand Clustering, with ability to build Machine Learning Pipelines
+
+<h3>Data Scientist at Sparks -- Internship</h3>
+
+-  Write codes to collect, crunch and analyze data from internal and external sources
+-  Build machine and tune learning models using Python
+-  Learn how can extract useful insights to improve the productivity
 
 
 ## 📩 Connect with me
 <p align="center">
- <a href="Mina:mina.markos6565@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:mina.markos6565@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mon.adel.5" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mina-markos-343b8b171/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
+
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeddarwish98&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddarwish98" />
+		   <img src="https://img.shields.io/github/followers/ahmeddarwish98?label=Followers" alt="ahmeddarwish98" />
+  -->
+ 
+
+
+
 
 
 
