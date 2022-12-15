@@ -18,17 +18,11 @@ and learn new parts of data
 
 ## 📩 Connect with me
 <p align="center">
- <a href="mailto:ahmeddarwish0098@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mina-markos-343b8b171/" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/adarwish98" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ <a href="mina.markos6565@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/mon.adel.5" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mina-markos-343b8b171/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
 
-
-## Connect with me 📫:
-
-<h3><b><span style="color:navy">Linkedin :- </span><a href='https://www.linkedin.com/in/mina-markos-343b8b171/'><b>Click HERE</b></a> </b></h3>  
-
-<h3><b><span style="color:navy">E-mail :- </span><a href='mina.markos6565@gmail.com'><b>Click HERE</b></a> </b></h3>  
 
 
 
