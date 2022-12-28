@@ -4,16 +4,7 @@
 
 
 
-<h3 align="center">I am a junior data scientist and data
-analyst who is passionate about data
-science and machine learning. i can
-extract meaningful insights by use the
-existing information to improve
-bessuiness and uncover the actionble
-data as well as can make predicting with
-machine learning alogorithms ways to
-make actionable improvrments and solve
-problems</h3>
+<h3 align="center">I am a business intelligence professional and junior data scientist who is interested in data science and gaining meaningful insight from data, which will heavily influence business decisions.With many tools, such as SQL, PowerBI, and Python, can help. and I have the ability to recognize business growth.opportunities, raise profit sharing, and determine employee productivity, Detect risks and threats, and reduce waste and costs. and i have a solid foundation for machine learning. I'm a self-motivated, self-learning individual with strong communication skills and the capacity to adapt rapidly to new situations. I want to work for a company that will help me grow my talents and learn new parts of data science.</h3>
 
 
 <br>
