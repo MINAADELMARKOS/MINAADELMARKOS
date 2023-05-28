@@ -4,7 +4,19 @@
 
 
 
-<h3 align="center">I am a business intelligence professional and junior data scientist who is interested in data science and gaining meaningful insight from data, which will heavily influence business decisions.With many tools, such as SQL, PowerBI, and Python, can help. and I have the ability to recognize business growth.opportunities, raise profit sharing, and determine employee productivity, Detect risks and threats, and reduce waste and costs. and i have a solid foundation for machine learning. I'm a self-motivated, self-learning individual with strong communication skills and the capacity to adapt rapidly to new situations. I want to work for a company that will help me grow my talents and learn new parts of data science.</h3>
+<h3 align="center">Experienced Business Intelligence Developer, Data Analyst, and Junior Data Scientist leveraging Python, SQL, PowerBI, SSIS, and Data Warehouse to drive data-driven insights and business success.
+
+I am a skilled professional with a strong foundation in data science principles and methodologies. Using Python, I efficiently manipulate and analyze data, applying advanced statistical techniques and machine learning algorithms to uncover valuable patterns, trends, and correlations. My expertise in SQL allows me to effectively query and retrieve data from databases, ensuring data integrity and accuracy throughout the analysis process.
+
+With my proficiency in PowerBI, I create dynamic visualizations and interactive reports, empowering stakeholders to make informed, data-driven decisions. I possess a keen eye for data visualization best practices, ensuring that information is presented in a clear and intuitive manner.
+
+Additionally, my expertise in SSIS (SQL Server Integration Services) and Data Warehouse enables me to design and develop robust data integration and ETL (Extract, Transform, Load) processes. I excel at extracting data from diverse sources, transforming it into a consistent format, and loading it into a centralized data warehouse, facilitating streamlined data analysis and reporting.
+
+I combine my technical skills with strong business acumen to understand how data science can drive value for organizations. I excel at collaborating with cross-functional teams, translating complex data concepts into actionable insights, and presenting findings to both technical and non-technical stakeholders.
+
+With a passion for data science, a versatile skill set, and a commitment to delivering tangible business outcomes, I am dedicated to leveraging my capabilities in Python, SQL, PowerBI, SSIS, and Data Warehouse to benefit organizations and drive data-driven success.
+
+Feel free to connect with me to explore opportunities for collaboration and discuss how I can contribute to your organization's data-driven initiatives.</h3>
 
 
 <br>
