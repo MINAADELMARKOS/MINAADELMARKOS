@@ -4,19 +4,13 @@
 
 
 
-<h3 align="center">Experienced Business Intelligence Developer, Data Analyst, and Junior Data Scientist leveraging Python, SQL, PowerBI, SSIS, and Data Warehouse to drive data-driven insights and business success.
+<h3 align="center">I am a dedicated Big Data Engineer and Business Intelligence Developer with a proven track record in leveraging a diverse skill set to drive successful data-driven solutions. My expertise spans SQL, Python, Data Analytics, Business Intelligence, Microsoft SQL Server, Power Automate, SQL Server Reporting Service, Database development, administration, and performance tuning, Data Warehousing (DWH), Extract Transform Load (ETL), Data Science, and Data Visualization (Power BI, Matplotlib, Seaborn, Dash, and Plotly).
 
-I am a skilled professional with a strong foundation in data science principles and methodologies. Using Python, I efficiently manipulate and analyze data, applying advanced statistical techniques and machine learning algorithms to uncover valuable patterns, trends, and correlations. My expertise in SQL allows me to effectively query and retrieve data from databases, ensuring data integrity and accuracy throughout the analysis process.
+Proficient in handling various database technologies such as MYSQL-SQLite, Microsoft (Excel, PowerPoint, and Access), and experienced in Data Engineering, I bring a wealth of knowledge to the table. My skills extend to big data technologies, including Apache Oozie, Java, XML, Oracle Database, Apache NiFi, Apache Impala, Hadoop, Apache Spark, Apache Kafka, and Python, as well as expertise in Microsoft Power BI.
 
-With my proficiency in PowerBI, I create dynamic visualizations and interactive reports, empowering stakeholders to make informed, data-driven decisions. I possess a keen eye for data visualization best practices, ensuring that information is presented in a clear and intuitive manner.
+I have a solid foundation in Data Analysis and am well-versed in Cloudera CDP Cluster, HDFS, Impala, Linux, Hue, Yarn, HBase, NoSQL databases, XML, and the broader Hadoop ecosystem. Additionally, my proficiency extends to web scraping techniques using Selenium and BeautifulSoup.
 
-Additionally, my expertise in SSIS (SQL Server Integration Services) and Data Warehouse enables me to design and develop robust data integration and ETL (Extract, Transform, Load) processes. I excel at extracting data from diverse sources, transforming it into a consistent format, and loading it into a centralized data warehouse, facilitating streamlined data analysis and reporting.
-
-I combine my technical skills with strong business acumen to understand how data science can drive value for organizations. I excel at collaborating with cross-functional teams, translating complex data concepts into actionable insights, and presenting findings to both technical and non-technical stakeholders.
-
-With a passion for data science, a versatile skill set, and a commitment to delivering tangible business outcomes, I am dedicated to leveraging my capabilities in Python, SQL, PowerBI, SSIS, and Data Warehouse to benefit organizations and drive data-driven success.
-
-Feel free to connect with me to explore opportunities for collaboration and discuss how I can contribute to your organization's data-driven initiatives.</h3>
+With a keen eye for detail and a commitment to delivering high-quality solutions, I am poised to contribute to projects requiring a blend of technical prowess and strategic thinking. Explore my repositories to discover firsthand my contributions to Big Data, Data Science, and Business Intelligence domains. I am open to collaboration and eager to bring my skills to projects that demand innovation and excellence.</h3>
 
 
 <br>
@@ -31,13 +25,20 @@ Feel free to connect with me to explore opportunities for collaboration and disc
 
 ## EXPERIENCE 
 
-<h3>Data Analyst at Epsilon Ai -- Internship </h3>
+<h3>Big Data Engineer & Business Intelligence System Analyst @ VODAFONE</h3>
+
+-  Administer and manage databases related to telecom operations, including performance tuning, troubleshooting, and ensuring data security.
+-  Design, develop, and maintain scalable and efficient data pipelines for the collection, processing, and storage of large volumes of telecom data.
+-  Create and maintain data models to support business requirements, ensuring data integrity and optimal performance.
+-  Provide support for data-related issues, troubleshoot problems, and implement solutions to ensure minimal disruption to ongoing operations.
+
+<h3>Business Intelligence Analyst | Power BI Developer @MCS Analytics</h3>
 
 -  Clean, prepare, organize and facilitate access to different types of datasets.
 -  Extract data from multiple sources.
 -  Use of Machine Learning techniques: Regression, Classificationand Clustering, with ability to build Machine Learning Pipelines
 
-<h3>Data Scientist at Sparks -- Internship</h3>
+<h3>Data Analyst | Junior Data Scientist @ UPWORK</h3>
 
 -  Write codes to collect, crunch and analyze data from internal and external sources
 -  Build machine and tune learning models using Python
