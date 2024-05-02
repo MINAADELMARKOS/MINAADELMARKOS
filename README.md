@@ -4,13 +4,17 @@
 
 
 
-<h3 align="center">I am a dedicated Big Data Engineer and Business Intelligence Developer with a proven track record in leveraging a diverse skill set to drive successful data-driven solutions. My expertise spans SQL, Python, Data Analytics, Business Intelligence, Microsoft SQL Server, Power Automate, SQL Server Reporting Service, Database development, administration, and performance tuning, Data Warehousing (DWH), Extract Transform Load (ETL), Data Science, and Data Visualization (Power BI, Matplotlib, Seaborn, Dash, and Plotly).
+<h3 align="center">I am a dedicated Big Data Engineer and Business Intelligence Developer with a proven track record of delivering successful data-driven solutions. My diverse skill set spans SQL, Python, Data Analytics, Business Intelligence, Microsoft SQL Server, Power Automate, SQL Server Reporting Service, database development, administration, and performance tuning. I specialize in Data Warehousing (DWH), Extract Transform Load (ETL), Data Science, and Data Visualization (Power BI, Matplotlib, Seaborn, Dash, and Plotly).
 
-Proficient in handling various database technologies such as MYSQL-SQLite, Microsoft (Excel, PowerPoint, and Access), and experienced in Data Engineering, I bring a wealth of knowledge to the table. My skills extend to big data technologies, including Apache Oozie, Java, XML, Oracle Database, Apache NiFi, Apache Impala, Hadoop, Apache Spark, Apache Kafka, and Python, as well as expertise in Microsoft Power BI.
+Proficient in managing a range of database technologies, including MYSQL, SQLite, and Microsoft Office (Excel, PowerPoint, Access), I offer a wealth of knowledge and experience in Data Engineering. My big data expertise encompasses Apache Hadoop, Spark, Kafka, Oozie, and NiFi. Additionally, I am skilled in NoSQL databases like HBase and the Hadoop ecosystem, as well as data processing with Yarn.
 
-I have a solid foundation in Data Analysis and am well-versed in Cloudera CDP Cluster, HDFS, Impala, Linux, Hue, Yarn, HBase, NoSQL databases, XML, and the broader Hadoop ecosystem. Additionally, my proficiency extends to web scraping techniques using Selenium and BeautifulSoup.
+My capabilities extend to modern data technologies such as Docker and cloud platforms like Microsoft Azure, where I deploy scalable, high-performance solutions. My recent work includes experience with Microsoft Fabric, a comprehensive end-to-end data analytics solution.
 
-With a keen eye for detail and a commitment to delivering high-quality solutions, I am poised to contribute to projects requiring a blend of technical prowess and strategic thinking. Explore my repositories to discover firsthand my contributions to Big Data, Data Science, and Business Intelligence domains. I am open to collaboration and eager to bring my skills to projects that demand innovation and excellence.</h3>
+I am also proficient in Hive, Impala, Cloudera CDP Cluster, HDFS, Hue, and various data orchestration tools, enhancing my ability to design and manage complex data pipelines. In addition, my expertise in web scraping techniques using Selenium and BeautifulSoup allows me to gather and analyze data from a variety of online sources.
+
+With a keen eye for detail and a commitment to delivering high-quality, innovative solutions, I am well-prepared to contribute to projects requiring a blend of technical prowess and strategic thinking. My repositories showcase contributions to big data, data science, and business intelligence. I am open to collaboration and eager to bring my skills to projects that demand creativity, innovation, and excellence.
+
+Let's connect and explore how I can help you achieve data-driven insights and transformative business outcomes.</h3>
 
 
 <br>
