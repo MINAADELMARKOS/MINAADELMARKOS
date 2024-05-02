@@ -71,20 +71,17 @@ Let's connect and explore how I can help you achieve data-driven insights and tr
 ## skills 👀
 
 <center>
-<img align="left" width="50" height="50" src="https://camo.githubusercontent.com/e17f27ccb104b1ee595bb3c320eaf9ab8d0b1767969bc204fb7813db450ebd8f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76322e706e67">
+<img align="left" width="50" height="50" src="python.png">
 
+<img align="left" width="90" height="50" src="rabbitmq.png">
+<img align="left" width="80" height="50" src="fabricmicrosoft.png">
 
-
-<img align="left" width="50" height="50" src="https://camo.githubusercontent.com/177d71fdf63eb8269626f2f0f02aa71f5a0cdf146dfc02b2f0f55e92cc8cdd13/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d736f66742d66696c6c2d6a756963792d666973682f36302f3030303030302f65787465726e616c2d73716c2d636f64696e672d616e642d646576656c6f706d656e742d736f66742d66696c6c2d736f66742d66696c6c2d6a756963792d666973682e706e67">
-
-
-
-
+<img align="left" width="80" height="50" src="docker.png">
 <img align="left" width="30" height="40" src="powerpi.png">
-<img align="left" width="30" height="50" src="pandas.png">
-<img align="left" width="50 height="50" src="numpy.png">
+<img align="left" width="80" height="50" src="spark.jpg">
+<img align="left" width="50 height="50" src="nifi.png">
 <img align="left" width="50 height="50" src="plotly.png">
-<img align="left" width="90 height="90" src="sklearn.png">
+<img align="left" width="90 height="90" src="kafka.png">
 
 </center>
 
