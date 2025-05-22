@@ -25,9 +25,52 @@ Let's connect and explore how I can help you achieve data-driven insights and tr
 
 -  Bachelor's Degree of Engineering (2021) -- Alexandria University, Egypt
 -  Certified Data Scientist Professional Training Progra 9 Months Programg -- EPSILON AI Institute
--  IBM Data Science Professional Certificate 2022 -- Coursera 
+-  IBM Data Science Professional Certificate 2022 -- Coursera
+-  Cloudera Data Analyst Professional Certificate 2025, Cloudera
+-  Cloudera Data Engineer Professional Certificate 2025, Cloudera
+-  Google Business Intelligence Certificate – Google (3 Months)
 
 ## EXPERIENCE 
+
+<h3>BI & Big Data Quality Sr. Specialist@ VODAFONE</h3>
+
+- Administered **3 large-scale clusters** (60+ machines), ensuring **high availability**, **performance**, and **reliability**.
+- Utilized **Linux shell scripting** for:
+  - Node management  
+  - System health monitoring  
+  - Resource utilization optimization  
+- Automated critical tasks:
+  - Log management  
+  - HBase compaction  
+  - YARN queue performance tracking  
+  > 🕒 Result: Reduced processing time by **70%**.
+
+## Monitoring & Ecosystem Tools
+- Implemented **proactive monitoring and alerting** systems for:
+  - Kafka  
+  - Oozie  
+  - HDFS storage  
+- Ensured **seamless operations** and prevented disruptions.
+- Leveraged Hadoop ecosystem tools:
+  - Kafka, NiFi, HBase, Impala, Oozie, YARN, HDFS  
+
+## Project Highlights
+### Telecom Finance RAID Project
+- Enhanced **data pipelines and workflows** to support **real-time analytics** and **risk mitigation**.
+
+## Advanced Analytics & Visualization 📉
+- Developed **Power BI dashboards** for actionable insights:
+  - **AOM Dashboard**📉:  
+    - 🧠 Tracked customer behavior and KPIs  
+    - 💸 Reduced revenue loss by **80%**
+  - **Execution Time Dashboard**💻:  
+    - 🕵️ Monitored machine performance and system efficiency
+  - **Data Quality Dashboard** 📊:  
+    - 🔗Integrated data from **Cloudera** and **Oracle**  
+    - ✅Highlighted data quality metrics
+
+
+
 
 <h3>Big Data Engineer & Business Intelligence System Analyst @ VODAFONE</h3>
 
@@ -49,7 +92,8 @@ Let's connect and explore how I can help you achieve data-driven insights and tr
 -  Learn how can extract useful insights to improve the productivity
 
 
-## 📩 Connect with me
+## 📩 Contact With Me
+
 <p align="center">
  <a href="mailto:mina.markos6565@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mon.adel.5" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
@@ -63,27 +107,24 @@ Let's connect and explore how I can help you achieve data-driven insights and tr
  
 
 
-
-
-
-
-
 ## skills 👀
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
+
+
 <center>
-<img align="left" width="50" height="50" src="python.png">
 
 <img align="left" width="90" height="50" src="rabbitmq.png">
 <img align="left" width="80" height="50" src="fabricmicrosoft.png">
 
-<img align="left" width="80" height="50" src="docker.png">
-<img align="left" width="30" height="40" src="powerpi.png">
+<img align="left" width="40" height="40" src="powerpi.png">
 <img align="left" width="80" height="50" src="spark.jpg">
 <img align="left" width="50 height="50" src="nifi.png">
 <img align="left" width="50 height="50" src="plotly.png">
 <img align="left" width="90 height="90" src="kafka.png">
-
-</center>
-
-
+<center>
 
