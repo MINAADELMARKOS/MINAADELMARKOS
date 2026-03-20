@@ -4,17 +4,29 @@
 
 
 
-<h3 align="center">I am a dedicated Big Data Engineer and Business Intelligence Developer with a proven track record of delivering successful data-driven solutions. My diverse skill set spans SQL, Python, Data Analytics, Business Intelligence, Microsoft SQL Server, Power Automate, SQL Server Reporting Service, database development, administration, and performance tuning. I specialize in Data Warehousing (DWH), Extract Transform Load (ETL), Data Science, and Data Visualization (Power BI, Matplotlib, Seaborn, Dash, and Plotly).
+<h3 align="center">𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 and 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with over 𝐟𝐢𝐯𝐞 𝐲𝐞𝐚𝐫𝐬 of experience 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠, 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 end-to-end data platforms that turn raw data into actionable insights.
 
-Proficient in managing a range of database technologies, including MYSQL, SQLite, and Microsoft Office (Excel, PowerPoint, Access), I offer a wealth of knowledge and experience in Data Engineering. My big data expertise encompasses Apache Hadoop, Spark, Kafka, Oozie, and NiFi. Additionally, I am skilled in NoSQL databases like HBase and the Hadoop ecosystem, as well as data processing with Yarn.
+I specialize in 𝐂𝐥𝐨𝐮𝐝𝐞𝐫𝐚 𝐂𝐃𝐏, 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬, 𝐀𝐩𝐚𝐜𝐡𝐞 𝐒𝐩𝐚𝐫𝐤, 𝐊𝐚𝐟𝐤𝐚, 𝐍𝐢𝐅𝐢, 𝐀𝐢𝐫𝐟𝐥𝐨𝐰, 𝐇𝐢𝐯𝐞, 𝐇𝐁𝐚𝐬𝐞, 𝐈𝐦𝐩𝐚𝐥𝐚, 𝐑𝐚𝐧𝐠𝐞𝐫, 𝐀𝐭𝐥𝐚𝐬, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐒𝐐𝐋, 𝐚𝐧𝐝 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈. My expertise covers building real-time and batch pipelines, developing data Lakehouse and data mesh architectures, and orchestrating multi-cloud workflows across 𝐀𝐳𝐮𝐫𝐞, 𝐀𝐖𝐒, 𝐚𝐧𝐝 𝐆𝐂𝐏.
 
-My capabilities extend to modern data technologies such as Docker and cloud platforms like Microsoft Azure, where I deploy scalable, high-performance solutions. My recent work includes experience with Microsoft Fabric, a comprehensive end-to-end data analytics solution.
+I’ve delivered scalable data solutions that cut processing time by 70%, improved data quality and governance, and automated monitoring and alerting pipelines. My work bridges data engineering and analytics — driving measurable value through optimized data flow, visibility, and performance.
 
-I am also proficient in Hive, Impala, Cloudera CDP Cluster, HDFS, Hue, and various data orchestration tools, enhancing my ability to design and manage complex data pipelines. In addition, my expertise in web scraping techniques using Selenium and BeautifulSoup allows me to gather and analyze data from a variety of online sources.
+𝑲𝒆𝒚 𝑹𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔 & 𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔:
 
-With a keen eye for detail and a commitment to delivering high-quality, innovative solutions, I am well-prepared to contribute to projects requiring a blend of technical prowess and strategic thinking. My repositories showcase contributions to big data, data science, and business intelligence. I am open to collaboration and eager to bring my skills to projects that demand creativity, innovation, and excellence.
+- Designed Lakehouse architectures using Databricks Delta Lake, Spark Structured Streaming, and Auto Loader.
+- Built CI/CD pipelines for ETL workflows using Jenkins, GitHub Actions, and Terraform.
+- Automated metadata-driven ETL frameworks using Airflow, NiFi, and dbt.
+- Implemented data lineage, validation, and observability using Atlas and Great Expectations.
+- Developed real-time analytics pipelines and feature stores for ML using PySpark MLlib and MLflow.
+- Created Power BI dashboards for data quality, performance monitoring, and business KPIs.
 
-Let's connect and explore how I can help you achieve data-driven insights and transformative business outcomes.</h3>
+I’m passionate about data automation, real-time analytics, and cloud modernization, with a focus on scalability, reliability, and performance. I excel at translating complex business needs into efficient, data-driven solutions.
+
+🌍 𝐎𝐩𝐞𝐧 𝐭𝐨 𝐫𝐞𝐦𝐨𝐭𝐞 𝐨𝐫 𝐫𝐞𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐄𝐮𝐫𝐨𝐩𝐞, leveraging my expertise in Databricks, Cloudera, and modern data engineering to build intelligent, future-ready data platforms.
+
+𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬:
+𝘋𝘢𝘵𝘢𝘣𝘳𝘪𝘤𝘬𝘴 | 𝘈𝘱𝘢𝘤𝘩𝘦 𝘚𝘱𝘢𝘳𝘬 | 𝘋𝘦𝘭𝘵𝘢 𝘓𝘢𝘬𝘦 | 𝘒𝘢𝘧𝘬𝘢 | 𝘕𝘪𝘍𝘪 | 𝘈𝘪𝘳𝘧𝘭𝘰𝘸 | 𝘊𝘭𝘰𝘶𝘥𝘦𝘳𝘢 𝘊𝘋𝘗 | 𝘏𝘪𝘷𝘦 | 𝘏𝘉𝘢𝘴𝘦 | 𝘐𝘮𝘱𝘢𝘭𝘢 | 𝘙𝘢𝘯𝘨𝘦𝘳 | 𝘥𝘣𝘵 | 𝘛𝘦𝘳𝘳𝘢𝘧𝘰𝘳𝘮 | 𝘑𝘦𝘯𝘬𝘪𝘯𝘴 | 𝘔𝘓𝘧𝘭𝘰𝘸 | 𝘗𝘺𝘵𝘩𝘰𝘯 | 𝘚𝘘𝘓 | 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐 | 𝘈𝘻𝘶𝘳𝘦 | 𝘈𝘞𝘚 | 𝘎𝘊𝘗 | 𝘋𝘢𝘵𝘢 𝘓𝘢𝘬𝘦𝘩𝘰𝘶𝘴𝘦 | 𝘙𝘦𝘢𝘭-𝘛𝘪𝘮𝘦 𝘚𝘵𝘳𝘦𝘢𝘮𝘪𝘯𝘨 | 𝘋𝘢𝘵𝘢 𝘎𝘰𝘷𝘦𝘳𝘯𝘢𝘯𝘤𝘦 | 𝘊𝘐/𝘊𝘋
+
+</h3>
 
 
 <br>
