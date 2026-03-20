@@ -136,9 +136,37 @@ I’m passionate about data automation, real-time analytics, and cloud moderniza
   </tr>
 </table>
 
-
-
 ## EXPERIENCE 
+
+<h3>Senior Big Data Engineer @ DataScience Middle East</h3>
+
+- Lead sizing and architecture design for **new Big Data projects** across multiple business domains.
+- Installed, configured, and optimized **Cloudera CDP clusters and components**, including:
+  - HDFS  
+  - YARN  
+  - Hive  
+  - HBase  
+  - Impala  
+  - Kafka  
+  - NiFi  
+  - Spark  
+  - Ranger  
+  - Atlas  
+- Mastered and applied **AML (Anti-Money Laundering)** concepts and technologies to build robust investigation frameworks.
+- Designed and implemented **Quantexa-based investigation solutions** for:
+  - Entity resolution  
+  - Network analytics  
+- Developed and deployed **real-time data pipelines** using **Apache Spark** and **Kafka** for high-volume data streams.
+- Acted as a **Data Lake architect**, defining business models and ensuring:
+  - Data quality  
+  - Governance  
+  - Impact alignment  
+- Integrated and optimized workflows across **Databricks** and multiple cloud platforms:
+  - AWS  
+  - Azure  
+  - GCP  
+- Collaborated with cross-functional teams to translate business needs into **scalable data solutions**.
+- Drove **data innovation initiatives** to enhance analytics capabilities and business decision-making.
 
 <h3>BI & Big Data Quality Sr. Specialist@ VODAFONE</h3>
 
