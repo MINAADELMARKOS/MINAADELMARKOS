@@ -34,14 +34,16 @@ I’m passionate about data automation, real-time analytics, and cloud moderniza
 
 𝘋𝘢𝘵𝘢𝘣𝘳𝘪𝘤𝘬𝘴 | 𝘈𝘱𝘢𝘤𝘩𝘦 𝘚𝘱𝘢𝘳𝘬 | 𝘋𝘦𝘭𝘵𝘢 𝘓𝘢𝘬𝘦 | 𝘒𝘢𝘧𝘬𝘢 | 𝘕𝘪𝘍𝘪 | 𝘈𝘪𝘳𝘧𝘭𝘰𝘸 | 𝘊𝘭𝘰𝘶𝘥𝘦𝘳𝘢 𝘊𝘋𝘗 | 𝘏𝘪𝘷𝘦 | 𝘏𝘉𝘢𝘴𝘦 | 𝘐𝘮𝘱𝘢𝘭𝘢 | 𝘙𝘢𝘯𝘨𝘦𝘳 | 𝘥𝘣𝘵 | 𝘛𝘦𝘳𝘳𝘢𝘧𝘰𝘳𝘮 | 𝘑𝘦𝘯𝘬𝘪𝘯𝘴 | 𝘔𝘓𝘧𝘭𝘰𝘸 | 𝘗𝘺𝘵𝘩𝘰𝘯 | 𝘚𝘘𝘓 | 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐 | 𝘈𝘻𝘶𝘳𝘦 | 𝘈𝘞𝘚 | 𝘎𝘊𝘗 | 𝘋𝘢𝘵𝘢 𝘓𝘢𝘬𝘦𝘩𝘰𝘶𝘴𝘦 | 𝘙𝘦𝘢𝘭-𝘛𝘪𝘮𝘦 𝘚𝘵𝘳𝘦𝘢𝘮𝘪𝘯𝘨 | 𝘋𝘢𝘵𝘢 𝘎𝘰𝘷𝘦𝘳𝘯𝘢𝘯𝘤𝘦 | 𝘊𝘐/𝘊𝘋
 
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-<br>
+
 
 ## EDUCATION 
 
 -  Bachelor's Degree of Engineering (2021) -- Alexandria University, Egypt
 -  Certified Data Scientist Professional Training Progra 9 Months Programg -- EPSILON AI Institute
+
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 50px/>
+<br>
 
 
 ## Certifications & Professional Credentials
