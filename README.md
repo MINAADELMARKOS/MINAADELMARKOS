@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 and 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with over 𝐟𝐢𝐯𝐞 𝐲𝐞𝐚𝐫𝐬 of experience 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠, 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 end-to-end data platforms that turn raw data into actionable insights.
+𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with over 𝐟𝐢𝐯𝐞 𝐲𝐞𝐚𝐫𝐬 of experience 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠, 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 end-to-end data platforms that turn raw data into actionable insights.
 </h3>
 
 ## About Me
