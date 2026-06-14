@@ -42,7 +42,7 @@ I’m passionate about data automation, real-time analytics, and cloud moderniza
 -  Certified Data Scientist Professional Training Progra 9 Months Programg -- EPSILON AI Institute
 
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 15px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 5px/>
 <br>
 
 
