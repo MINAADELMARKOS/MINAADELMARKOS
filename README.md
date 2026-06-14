@@ -223,13 +223,6 @@ I’m passionate about data automation, real-time analytics, and cloud moderniza
 -  Extract data from multiple sources.
 -  Use of Machine Learning techniques: Regression, Classificationand Clustering, with ability to build Machine Learning Pipelines
 
-<h3>Data Analyst | Junior Data Scientist @ UPWORK</h3>
-
--  Write codes to collect, crunch and analyze data from internal and external sources
--  Build machine and tune learning models using Python
--  Learn how can extract useful insights to improve the productivity
-
-
 ## 📩 Contact With Me
 
 <p align="center">
